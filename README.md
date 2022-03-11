@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kunal114
-- 👀 I’m interested in 
+- 👀 I’m interested in Machine Learning, Data Science, AI
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ML based Projects
 - 📫 How to reach me: kunal1142000@gmail.com
